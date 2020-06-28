@@ -147,12 +147,12 @@ a:focus, a:active, a:hover, a:visited {
 }
 
 .button.apple .text {
-  background-image: url(../img/apple_logo_black.svg);
+  background-image: url(../svg/apple_logo_black.svg);
   background-size: 21px 24px;
 }
 
 .button.google .text {
-  background-image: url(../img/google-play.svg);
+  background-image: url(../svg/google-play.svg);
   background-size: 22px 24px;
 }
 
