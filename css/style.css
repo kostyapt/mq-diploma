@@ -668,13 +668,13 @@ a:focus, a:active, a:hover, a:visited {
     padding-top: 115px;
   }
 
-  .athlets .section_title_text,
+  .athlets .section_title,
   .athlets .title,
   .athlets .content {
-    padding-left: 53%;
+    padding-left: 43%;
   }
 
-  .players .section_title_text,
+  .players .section_title,
   .players .title,
   .players .content {
     padding-right: 48.49%;
